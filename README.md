@@ -10,7 +10,7 @@ Hi there 👋. I’m Pranjal Karodiya!
 
 🔭 I’m currently working on: Making a MAC Changer using Python!
 
-⚡ Fun fact: I’m currently studying the art of securing and protecting digital systems, with a strong passion for writing code.🕵️‍♂️
+⚡ Fun fact: I’m studying the art of securing and protecting digital systems, with a strong passion for writing code.🕵️‍♂️
 
 ## Get in touch 🍵: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pranjal_karodiya?igsh=MW1meGd0OTJsNjNsMQ==)
